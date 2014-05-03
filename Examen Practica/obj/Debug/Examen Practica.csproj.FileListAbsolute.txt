@@ -1,0 +1,17 @@
+G:\profe. jonathan\Examen Practica\Examen Practica\bin\Debug\Examen Practica.exe
+G:\profe. jonathan\Examen Practica\Examen Practica\bin\Debug\Examen Practica.pdb
+G:\profe. jonathan\Examen Practica\Examen Practica\obj\Debug\Examen Practica.exe
+G:\profe. jonathan\Examen Practica\Examen Practica\obj\Debug\Examen Practica.pdb
+G:\profe. jonathan\Examen Practica\Examen Practica\obj\Debug\Examen_Practica.MainForm.resources
+E:\profe. jonathan\Examen Practica\Examen Practica\bin\Debug\Examen Practica.exe
+E:\profe. jonathan\Examen Practica\Examen Practica\bin\Debug\Examen Practica.pdb
+E:\profe. jonathan\Examen Practica\Examen Practica\obj\Debug\Examen Practica.csprojResolveAssemblyReference.cache
+E:\profe. jonathan\Examen Practica\Examen Practica\obj\Debug\Examen_Practica.MainForm.resources
+E:\profe. jonathan\Examen Practica\Examen Practica\obj\Debug\Examen Practica.csproj.GenerateResource.Cache
+E:\profe. jonathan\Examen Practica\Examen Practica\obj\Debug\Examen Practica.exe
+E:\profe. jonathan\Examen Practica\Examen Practica\obj\Debug\Examen Practica.pdb
+E:\profe. jonathan\Examen Practica\Examen Practica\obj\Debug\Examen_Practica.Ventana2.resources
+G:\profe. jonathan\Examen Practica\Examen Practica\obj\Debug\ResolveAssemblyReference.cache
+G:\profe. jonathan\Examen Practica\Examen Practica\obj\Debug\Examen_Practica.Ventana2.resources
+G:\profe. jonathan\Examen Practica\Examen Practica\obj\Debug\GenerateResource.read.1.tlog
+G:\profe. jonathan\Examen Practica\Examen Practica\obj\Debug\GenerateResource.write.1.tlog
