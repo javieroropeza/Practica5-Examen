@@ -49,37 +49,37 @@ namespace Examen_Practica
 				puntos += 1;
 				
 			}
-			//MessageBox.Show( puntos.ToString() );
+			
 			 
 			 if( this.Inciso1P3.Text == "31"){
 			 	
 				puntos += 1;
 				
 			}
-			//MessageBox.Show( puntos.ToString() );
+			
 		
 			if( this.Inciso2P2.Checked){
 				
 				puntos += 1;
 				
 			}
-			//MessageBox.Show( puntos.ToString() );
+			
 			if( this.Inciso4P1.Checked){
 				
 				puntos += 1;
 				
 			}
-			//MessageBox.Show( puntos.ToString() );
+			
 			if( this.Inciso1P1.Checked ){
 				
 				puntos += 1;
 				
 			}
-			 //MessageBox.Show( puntos.ToString() );
+			
 			 if(this.puntos ==5){
-				MessageBox.Show( " "+this.puntos +" de 5 " + "Felicidades Calificacion Perfecta");
+				MessageBox.Show( "TUS RESULTADOS SON " + " "+this.puntos +" de 5 " + "Felicidades Calificacion Perfecta");
 			 }else 
-			 	MessageBox.Show( " "+this.puntos +" de 5 " );
+			 	MessageBox.Show( "TUS RESULTADOS SON " +" "+this.puntos +" de 5 " );
 		}
 	}
 }
